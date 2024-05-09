@@ -29,6 +29,6 @@
 <div align="center">
   <h2>👨‍💻 My Contributions 🐍</h2>
   
-  <img alt="snake eating shailendra's contributions" src="https://github.com/Shelunagori/Shelunagori/blob/output/github-contribution-grid-snake.gif" />
+  <img alt="snake eating shailendra's contributions" src="https://github.com/Shelunagori/Shelunagori/blob/output/github-contribution-grid-snake-dark.svg" />
   <br/>
 </div>
