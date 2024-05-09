@@ -24,6 +24,14 @@
   <img src="https://skillicons.dev/icons?i=firebase,aws,gcp,docker,github,git,vscode" />
     <br />
 </div>
-
 <br/>
 <hr/>
+<div align="center">
+  <h2>👨‍💻 My Contributions 🐉🐍</h2>
+  <br>
+  <img alt="snake eating shailendra's contributions" src="https://github.com/Shelunagori/Shelunagori/blob/output/github-contribution-grid-snake.gif" />
+  <br/><br/><br/>
+</div>
+
+
+
