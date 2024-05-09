@@ -19,9 +19,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,php,firebase,mongodb,mysql,redis," />  
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,php,firebase,mongodb,mysql,redis,aws,gcp,docker,github,git,vscode" />  
+  <br />
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,git,vscode" />
-    <br>
+    <br />
 </div>
 
 <br/>
