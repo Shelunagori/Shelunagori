@@ -17,7 +17,7 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,php,mongodb,mysql,redis" />  
   <br />
@@ -28,7 +28,7 @@
 <hr/>
 <div align="center">
   <h2>👨‍💻 My Contributions 🐍</h2>
-  <br>
+  
   <img alt="snake eating shailendra's contributions" src="https://github.com/Shelunagori/Shelunagori/blob/output/github-contribution-grid-snake.gif" />
   <br/><br/><br/>
 </div>
