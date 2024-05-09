@@ -14,3 +14,15 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,php,firebase,mongodb,mysql,redis," />  
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,git,vscode" />
+    <br>
+</div>
+
+<br/>
+<hr/>
