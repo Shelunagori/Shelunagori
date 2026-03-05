@@ -1,34 +1,133 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shelunagori.Shelunagori&left_color=red&right_color=green&left_text=Visitors" />
+# Hi 👋 I'm Shailendra Nagori
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F71F13&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Shailendra;Software+Engineer" alt="Shailendra Nagori" />
-</h1>
+**Senior Software Engineer | Backend / Full-Stack Developer**
 
-<h3 align="center">Crafting digital solutions with precision ✨ and innovation 💡</h3>
-<br />
-<div align="center">   
-  <a href="https://www.linkedin.com/in/shailendranagori/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:shailendranagori7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</div>
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+I have **7+ years of experience building scalable, high-performance applications** using Node.js and Python. My work focuses on **backend architecture, API design, distributed systems, and cloud infrastructure**.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,php,mongodb,mysql,redis" />  
-  <br />
-  <img src="https://skillicons.dev/icons?i=firebase,aws,gcp,docker,github,git,vscode" />
-    <br />
-</div>
-<br/>
-<hr/>
-<div align="center">
-  <h2>👨‍💻 My Contributions 🐍</h2>
-  
-  <img alt="snake eating shailendra's contributions" src="https://github.com/Shelunagori/Shelunagori/blob/output/github-contribution-grid-snake-dark.svg" />
-  <br/>
-</div>
+I enjoy designing systems that are reliable, performant, and production-ready.
+
+---
+
+# 🚀 Core Expertise
+
+### Backend Development
+
+* Node.js
+* Python
+* Express.js
+* Django
+* REST API Design
+* Microservices Architecture
+
+### Databases
+
+* PostgreSQL
+* MongoDB
+* MySQL
+* Redis (Caching & Performance Optimization)
+
+### Cloud & DevOps
+
+* Docker
+* AWS
+* Google Cloud Platform
+* CI/CD with GitHub
+
+### Engineering Practices
+
+* System Design
+* Scalable Architecture
+* Performance Optimization
+* Design Patterns
+* Asynchronous Processing
+
+---
+
+# 💼 Professional Experience Highlights
+
+### Senior Software Engineer
+
+Designed and developed **multiple end-to-end products** including architecture design, API development, database modeling, and deployment pipelines.
+
+### Microservices Migration
+
+Led migration of a **monolithic application to microservices**, improving scalability and system efficiency by **~70%**.
+
+### API Performance Optimization
+
+Improved API latency and throughput using:
+
+* asynchronous I/O
+* caching layers
+* optimized database queries
+
+### Real-Time Systems
+
+Built real-time communication systems using **WebSockets** and chatbot integrations using **Google Dialogflow**.
+
+---
+
+# 🧰 Technologies I Work With
+
+Node.js • Python • Express • Django
+PostgreSQL • MongoDB • MySQL • Redis
+
+Docker • AWS • GCP
+
+JavaScript • TypeScript
+
+---
+
+# 📌 Featured Projects
+
+### 🏗 Microservices Grocery Architecture
+
+A distributed e-commerce backend demonstrating migration from monolith to microservices.
+
+Tech:
+Node.js • Docker • Redis • REST APIs
+
+Repository:
+https://github.com/Shelunagori/grocery-app-architecture-transition
+
+---
+
+### 🛒 Full-Stack E-commerce Application
+
+A web application with authentication, product management, and shopping cart features.
+
+Tech:
+React • Node.js • MongoDB
+
+Repository:
+https://github.com/Shelunagori/react-e-commerce-app
+
+---
+
+### ⚙️ JavaScript Design Patterns
+
+Implementation of common software design patterns in JavaScript.
+
+Patterns:
+Singleton • Factory • Observer • Strategy • Proxy
+
+Repository:
+https://github.com/Shelunagori/js-design-patterns
+
+---
+# 🌱 Currently Exploring
+
+* Distributed Systems
+* Event-Driven Architecture
+* Advanced System Design
+* High-scale Backend Infrastructure
+
+---
+
+# 🤝 Connect With Me
+
+LinkedIn
+https://linkedin.com/in/shailendranagori
+
+Email
+[shailendranagori7@gmail.com](mailto:shailendranagori7@gmail.com)
