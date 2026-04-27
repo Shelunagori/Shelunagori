@@ -2,7 +2,7 @@
 
 **Senior Software Engineer | Backend / Full-Stack Developer**
 
-I have **7+ years of experience building scalable, high-performance applications** using Node.js and Python. My work focuses on **backend architecture, API design, distributed systems, and cloud infrastructure**.
+I have **9+ years of experience building scalable, high-performance applications** using Node.js and Python. My work focuses on **backend architecture, API design, distributed systems, and cloud infrastructure**.
 
 I enjoy designing systems that are reliable, performant, and production-ready.
 
